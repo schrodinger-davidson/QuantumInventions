@@ -30,3 +30,5 @@ Scope of futher works, progress & Enhancement:
 3. For data storing in sharedpreferences, String class is used abundantly. There is a good scope of improvement after using StringBuffer and charArray kind of data structures.
 
 4. The apk is not using any proguard or keep rules that can futhrer improve the size of apk.
+
+5. Last but not least, Some of the unit test are ignored that can also be taken in consideration.
