@@ -32,3 +32,15 @@ Scope of futher works, progress & Enhancement:
 4. The apk is not using any proguard or keep rules that can futhrer improve the size of apk.
 
 5. Last but not least, Some of the unit test are ignored that can also be taken in consideration.
+
+
+Time and Effort estimation:
+
+1. Android speech: 2 hour
+2. APi calling and show on ui: 3 hours
+3. Sorting of dictionary and saving in preference: 2
+4. Unit testing: 2 hours.
+
+Total: 9 hrs.
+
+
