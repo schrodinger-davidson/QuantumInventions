@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <dimen name="line_horizontal">1dp</dimen>
+    <dimen name="x_dp">10dp</dimen>
+    <dimen name="xx_dp">10dp</dimen>
+
+
+
+    <dimen name="xvi_sp">16sp</dimen>
+    <dimen name="xx_sp">20sp</dimen>
+
+</resources>

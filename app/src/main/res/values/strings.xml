@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quantum Inventions</string>
+        <string name="btn_speak">Speak</string>
+        <string name="title_header">  Speech to Text</string>
+</resources>
